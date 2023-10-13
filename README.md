@@ -1,4 +1,7 @@
 # PetAdoption
+
+Ruby on Rails & React with Vite
+
 Pet Adoption App
 
 - bundle install
